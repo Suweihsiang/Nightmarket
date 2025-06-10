@@ -1,0 +1,35 @@
+services:
+  mysql:
+    image: mysql:8.0
+    hostname: mysql-nightmarket
+    container_name: mysql-nightmarket
+    command: --init-file /data/application/init.sql
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      TZ: Asia/Taipei
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+      - ./init.sql:/data/application/init.sql
+    networks:
+      - nightmarket
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
+    environment:
+      PMA_HOST: mysql-nightmarket
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: password
+      LANG: zh_TW.UTF-8
+    ports:
+      - "8085:80"
+    depends_on:
+      - mysql
+    networks:
+      - nightmarket
+
+networks:
+  nightmarket:
+    name: nightmarket

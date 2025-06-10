@@ -1,0 +1,53 @@
+{
+    "build":{
+        "dockerfile": "../Dockerfile"
+    },
+    // "dockerComposeFile": "../docker-compose.yaml",
+    // "service": "tjr101-t1",
+    // "workspaceFolder": "/workspace", 
+    // "envFile": "../.env",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bierner.markdown-mermaid",
+                "charliermarsh.ruff",
+                "donjayamanne.githistory",
+                "eamodio.gitlens",
+                "mhutchie.git-graph",
+                "shardulm94.trailing-spaces",
+                "shinichi-takii.sql-bigquery",
+                "streetsidesoftware.code-spell-checker",
+                "vivaxy.vscode-conventional-commits",
+                "mechatroner.rainbow-csv",
+                "ms-python.python",
+                "ms-python.black-formatter",
+                "ms-python.pylint",
+                "ms-python.isort",
+                "ms-toolsai.jupyter"
+            ],
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "zsh",
+                "editor.defaultFormatter": "ms-python.black-formatter",
+                "editor.tabSize": 4,
+                "editor.rulers": [
+                    100
+                ],
+                "[python]": {
+                    "python.formatting.provider": "black",
+                    "editor.codeActionsOnSave": {
+                        "editor.formatOnSave": "always",
+                        "source.unusedImports": "never",
+                        "source.organizeImports": "always"
+                    }
+                }
+            }
+        }
+    },
+    "postCreateCommand": "sh ./.devcontainer/postCreateCommand.sh",
+    "runArgs": [
+        "--name",
+        "Tibame-TJR101-T1",
+        "--network",
+        "host"
+    ]
+}

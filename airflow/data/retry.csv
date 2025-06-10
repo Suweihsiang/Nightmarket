@@ -1,0 +1,353 @@
+﻿st_name,st_url,error
+法國道地吉拿棒 逢甲店,https://www.google.com/maps/place/%E6%B3%95%E5%9C%8B%E9%81%93%E5%9C%B0%E5%90%89%E6%8B%BF%E6%A3%92+%E9%80%A2%E7%94%B2%E5%BA%97/data=!4m7!3m6!1s0x34691731538d5d13:0xec188c56c13069dd!8m2!3d24.1804557!4d120.6463259!16s%2Fg%2F11x8y4z2zn!19sChIJE12NUzEXaTQR3WkwwVaMGOw?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x59bd41fa3c4a <unknown>
+#1 0x59bd41a496e0 <unknown>
+#2 0x59bd41a9b117 <unknown>
+#3 0x59bd41a9b311 <unknown>
+#4 0x59bd41ae9ec4 <unknown>
+#5 0x59bd41ac0e5d <unknown>
+#6 0x59bd41ae72cc <unknown>
+#7 0x59bd41ac0c03 <unknown>
+#8 0x59bd41a8d47b <unknown>
+#9 0x59bd41a8e0e1 <unknown>
+#10 0x59bd41f683fb <unknown>
+#11 0x59bd41f6c32f <unknown>
+#12 0x59bd41f4ff39 <unknown>
+#13 0x59bd41f6cec8 <unknown>
+#14 0x59bd41f3468f <unknown>
+#15 0x59bd41f912b8 <unknown>
+#16 0x59bd41f91496 <unknown>
+#17 0x59bd41fa2b26 <unknown>
+#18 0x7868d811c1c4 <unknown>
+"
+豐收王國-活蝦現烤,https://maps.app.goo.gl/XbCVCPCfNvYXnjgn6,"Message: 
+Stacktrace:
+#0 0x6017f6b3fc4a <unknown>
+#1 0x6017f65e56e0 <unknown>
+#2 0x6017f6637117 <unknown>
+#3 0x6017f6637311 <unknown>
+#4 0x6017f6685ec4 <unknown>
+#5 0x6017f665ce5d <unknown>
+#6 0x6017f66832cc <unknown>
+#7 0x6017f665cc03 <unknown>
+#8 0x6017f662947b <unknown>
+#9 0x6017f662a0e1 <unknown>
+#10 0x6017f6b043fb <unknown>
+#11 0x6017f6b0832f <unknown>
+#12 0x6017f6aebf39 <unknown>
+#13 0x6017f6b08ec8 <unknown>
+#14 0x6017f6ad068f <unknown>
+#15 0x6017f6b2d2b8 <unknown>
+#16 0x6017f6b2d496 <unknown>
+#17 0x6017f6b3eb26 <unknown>
+#18 0x7cc3da1561c4 <unknown>
+"
+大鼎滷味,https://www.google.com.tw/maps/place/%E5%A4%A7%E9%BC%8E%E6%BB%B7%E5%91%B3/data=!4m7!3m6!1s0x3442aeb06b5a6923:0x42eda4f68224c561!8m2!3d25.0880024!4d121.5241766!16s%2Fg%2F11xhh_khz!19sChIJI2laa7CuQjQRYcUkgvak7UI?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x60f87d9dac4a <unknown>
+#1 0x60f87d4806e0 <unknown>
+#2 0x60f87d4d2117 <unknown>
+#3 0x60f87d4d2311 <unknown>
+#4 0x60f87d520ec4 <unknown>
+#5 0x60f87d4f7e5d <unknown>
+#6 0x60f87d51e2cc <unknown>
+#7 0x60f87d4f7c03 <unknown>
+#8 0x60f87d4c447b <unknown>
+#9 0x60f87d4c50e1 <unknown>
+#10 0x60f87d99f3fb <unknown>
+#11 0x60f87d9a332f <unknown>
+#12 0x60f87d986f39 <unknown>
+#13 0x60f87d9a3ec8 <unknown>
+#14 0x60f87d96b68f <unknown>
+#15 0x60f87d9c82b8 <unknown>
+#16 0x60f87d9c8496 <unknown>
+#17 0x60f87d9d9b26 <unknown>
+#18 0x7779735761c4 <unknown>
+"
+日式蘋果糖,https://www.google.com.tw/maps/place/%E6%97%A5%E5%BC%8F%E8%98%8B%E6%9E%9C%E7%B3%96/data=!4m7!3m6!1s0x3442af0006da3809:0x5a462ed16fae3780!8m2!3d25.088182!4d121.526474!16s%2Fg%2F11y3x0js5b!19sChIJCTjaBgCvQjQRgDeub9EuRlo?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x632b7b2bec4a <unknown>
+#1 0x632b7ad646e0 <unknown>
+#2 0x632b7adb6117 <unknown>
+#3 0x632b7adb6311 <unknown>
+#4 0x632b7ae04ec4 <unknown>
+#5 0x632b7addbe5d <unknown>
+#6 0x632b7ae022cc <unknown>
+#7 0x632b7addbc03 <unknown>
+#8 0x632b7ada847b <unknown>
+#9 0x632b7ada90e1 <unknown>
+#10 0x632b7b2833fb <unknown>
+#11 0x632b7b28732f <unknown>
+#12 0x632b7b26af39 <unknown>
+#13 0x632b7b287ec8 <unknown>
+#14 0x632b7b24f68f <unknown>
+#15 0x632b7b2ac2b8 <unknown>
+#16 0x632b7b2ac496 <unknown>
+#17 0x632b7b2bdb26 <unknown>
+#18 0x7525adce01c4 <unknown>
+"
+膳品香酥排骨,"https://www.google.com/maps/place/%E8%86%B3%E5%93%81%E9%A6%99%E9%85%A5%E6%8E%92%E9%AA%A8/@22.983003,120.2166889,17z/data=!3m1!4b1!4m6!3m5!1s0x346e769b76e4e805:0xbcdca7352545fdc1!8m2!3d22.983003!4d120.2192638!16s%2Fg%2F11f3x9028r?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D","Message: 
+Stacktrace:
+#0 0x5a326bc85c4a <unknown>
+#1 0x5a326b72b6e0 <unknown>
+#2 0x5a326b77d117 <unknown>
+#3 0x5a326b77d311 <unknown>
+#4 0x5a326b7cbec4 <unknown>
+#5 0x5a326b7a2e5d <unknown>
+#6 0x5a326b7c92cc <unknown>
+#7 0x5a326b7a2c03 <unknown>
+#8 0x5a326b76f47b <unknown>
+#9 0x5a326b7700e1 <unknown>
+#10 0x5a326bc4a3fb <unknown>
+#11 0x5a326bc4e32f <unknown>
+#12 0x5a326bc31f39 <unknown>
+#13 0x5a326bc4eec8 <unknown>
+#14 0x5a326bc1668f <unknown>
+#15 0x5a326bc732b8 <unknown>
+#16 0x5a326bc73496 <unknown>
+#17 0x5a326bc84b26 <unknown>
+#18 0x710c114661c4 <unknown>
+"
+冰沙 Smoothie,https://www.google.com.tw/maps/place/%E5%86%B0%E6%B2%99+Smoothie/data=!4m7!3m6!1s0x3442af2dab78d84d:0x878ed4a7518312c2!8m2!3d25.0881583!4d121.5263538!16s%2Fg%2F11gtzh4gk5!19sChIJTdh4qy2vQjQRwhKDUafUjoc?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x64a59fef6c4a <unknown>
+#1 0x64a59f99c6e0 <unknown>
+#2 0x64a59f9ee117 <unknown>
+#3 0x64a59f9ee311 <unknown>
+#4 0x64a59fa3cec4 <unknown>
+#5 0x64a59fa13e5d <unknown>
+#6 0x64a59fa3a2cc <unknown>
+#7 0x64a59fa13c03 <unknown>
+#8 0x64a59f9e047b <unknown>
+#9 0x64a59f9e10e1 <unknown>
+#10 0x64a59febb3fb <unknown>
+#11 0x64a59febf32f <unknown>
+#12 0x64a59fea2f39 <unknown>
+#13 0x64a59febfec8 <unknown>
+#14 0x64a59fe8768f <unknown>
+#15 0x64a59fee42b8 <unknown>
+#16 0x64a59fee4496 <unknown>
+#17 0x64a59fef5b26 <unknown>
+#18 0x7e95657a51c4 <unknown>
+"
+如如新鮮果汁,https://maps.app.goo.gl/r9Y1NWhNutQGD6kZ9,"Message: 
+Stacktrace:
+#0 0x5dbe4d07cc4a <unknown>
+#1 0x5dbe4cb226e0 <unknown>
+#2 0x5dbe4cb74117 <unknown>
+#3 0x5dbe4cb74311 <unknown>
+#4 0x5dbe4cbc2ec4 <unknown>
+#5 0x5dbe4cb99e5d <unknown>
+#6 0x5dbe4cbc02cc <unknown>
+#7 0x5dbe4cb99c03 <unknown>
+#8 0x5dbe4cb6647b <unknown>
+#9 0x5dbe4cb670e1 <unknown>
+#10 0x5dbe4d0413fb <unknown>
+#11 0x5dbe4d04532f <unknown>
+#12 0x5dbe4d028f39 <unknown>
+#13 0x5dbe4d045ec8 <unknown>
+#14 0x5dbe4d00d68f <unknown>
+#15 0x5dbe4d06a2b8 <unknown>
+#16 0x5dbe4d06a496 <unknown>
+#17 0x5dbe4d07bb26 <unknown>
+#18 0x76304de0f1c4 <unknown>
+"
+良心水果攤,https://maps.app.goo.gl/4SrfBwxZYEvCYerU6,"Message: 
+Stacktrace:
+#0 0x58c64c76fc4a <unknown>
+#1 0x58c64c2156e0 <unknown>
+#2 0x58c64c267117 <unknown>
+#3 0x58c64c267311 <unknown>
+#4 0x58c64c2b5ec4 <unknown>
+#5 0x58c64c28ce5d <unknown>
+#6 0x58c64c2b32cc <unknown>
+#7 0x58c64c28cc03 <unknown>
+#8 0x58c64c25947b <unknown>
+#9 0x58c64c25a0e1 <unknown>
+#10 0x58c64c7343fb <unknown>
+#11 0x58c64c73832f <unknown>
+#12 0x58c64c71bf39 <unknown>
+#13 0x58c64c738ec8 <unknown>
+#14 0x58c64c70068f <unknown>
+#15 0x58c64c75d2b8 <unknown>
+#16 0x58c64c75d496 <unknown>
+#17 0x58c64c76eb26 <unknown>
+#18 0x780cc675a1c4 <unknown>
+"
+法國道地吉拿棒 逢甲店,https://www.google.com/maps/place/%E6%B3%95%E5%9C%8B%E9%81%93%E5%9C%B0%E5%90%89%E6%8B%BF%E6%A3%92+%E9%80%A2%E7%94%B2%E5%BA%97/data=!4m7!3m6!1s0x34691731538d5d13:0xec188c56c13069dd!8m2!3d24.1804557!4d120.6463259!16s%2Fg%2F11x8y4z2zn!19sChIJE12NUzEXaTQR3WkwwVaMGOw?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x5b4c2a2edc4a <unknown>
+#1 0x5b4c29d936e0 <unknown>
+#2 0x5b4c29de5117 <unknown>
+#3 0x5b4c29de5311 <unknown>
+#4 0x5b4c29e33ec4 <unknown>
+#5 0x5b4c29e0ae5d <unknown>
+#6 0x5b4c29e312cc <unknown>
+#7 0x5b4c29e0ac03 <unknown>
+#8 0x5b4c29dd747b <unknown>
+#9 0x5b4c29dd80e1 <unknown>
+#10 0x5b4c2a2b23fb <unknown>
+#11 0x5b4c2a2b632f <unknown>
+#12 0x5b4c2a299f39 <unknown>
+#13 0x5b4c2a2b6ec8 <unknown>
+#14 0x5b4c2a27e68f <unknown>
+#15 0x5b4c2a2db2b8 <unknown>
+#16 0x5b4c2a2db496 <unknown>
+#17 0x5b4c2a2ecb26 <unknown>
+#18 0x7760851fb1c4 <unknown>
+"
+豐收王國-活蝦現烤,https://maps.app.goo.gl/XbCVCPCfNvYXnjgn6,"Message: 
+Stacktrace:
+#0 0x5bebc5177c4a <unknown>
+#1 0x5bebc4c1d6e0 <unknown>
+#2 0x5bebc4c6f117 <unknown>
+#3 0x5bebc4c6f311 <unknown>
+#4 0x5bebc4cbdec4 <unknown>
+#5 0x5bebc4c94e5d <unknown>
+#6 0x5bebc4cbb2cc <unknown>
+#7 0x5bebc4c94c03 <unknown>
+#8 0x5bebc4c6147b <unknown>
+#9 0x5bebc4c620e1 <unknown>
+#10 0x5bebc513c3fb <unknown>
+#11 0x5bebc514032f <unknown>
+#12 0x5bebc5123f39 <unknown>
+#13 0x5bebc5140ec8 <unknown>
+#14 0x5bebc510868f <unknown>
+#15 0x5bebc51652b8 <unknown>
+#16 0x5bebc5165496 <unknown>
+#17 0x5bebc5176b26 <unknown>
+#18 0x723fbac391c4 <unknown>
+"
+大鼎滷味,https://www.google.com.tw/maps/place/%E5%A4%A7%E9%BC%8E%E6%BB%B7%E5%91%B3/data=!4m7!3m6!1s0x3442aeb06b5a6923:0x42eda4f68224c561!8m2!3d25.0880024!4d121.5241766!16s%2Fg%2F11xhh_khz!19sChIJI2laa7CuQjQRYcUkgvak7UI?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x582540e93c4a <unknown>
+#1 0x5825409396e0 <unknown>
+#2 0x58254098b117 <unknown>
+#3 0x58254098b311 <unknown>
+#4 0x5825409d9ec4 <unknown>
+#5 0x5825409b0e5d <unknown>
+#6 0x5825409d72cc <unknown>
+#7 0x5825409b0c03 <unknown>
+#8 0x58254097d47b <unknown>
+#9 0x58254097e0e1 <unknown>
+#10 0x582540e583fb <unknown>
+#11 0x582540e5c32f <unknown>
+#12 0x582540e3ff39 <unknown>
+#13 0x582540e5cec8 <unknown>
+#14 0x582540e2468f <unknown>
+#15 0x582540e812b8 <unknown>
+#16 0x582540e81496 <unknown>
+#17 0x582540e92b26 <unknown>
+#18 0x71d5e4a361c4 <unknown>
+"
+日式蘋果糖,https://www.google.com.tw/maps/place/%E6%97%A5%E5%BC%8F%E8%98%8B%E6%9E%9C%E7%B3%96/data=!4m7!3m6!1s0x3442af0006da3809:0x5a462ed16fae3780!8m2!3d25.088182!4d121.526474!16s%2Fg%2F11y3x0js5b!19sChIJCTjaBgCvQjQRgDeub9EuRlo?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x562775f02c4a <unknown>
+#1 0x5627759a86e0 <unknown>
+#2 0x5627759fa117 <unknown>
+#3 0x5627759fa311 <unknown>
+#4 0x562775a48ec4 <unknown>
+#5 0x562775a1fe5d <unknown>
+#6 0x562775a462cc <unknown>
+#7 0x562775a1fc03 <unknown>
+#8 0x5627759ec47b <unknown>
+#9 0x5627759ed0e1 <unknown>
+#10 0x562775ec73fb <unknown>
+#11 0x562775ecb32f <unknown>
+#12 0x562775eaef39 <unknown>
+#13 0x562775ecbec8 <unknown>
+#14 0x562775e9368f <unknown>
+#15 0x562775ef02b8 <unknown>
+#16 0x562775ef0496 <unknown>
+#17 0x562775f01b26 <unknown>
+#18 0x7307337271c4 <unknown>
+"
+膳品香酥排骨,"https://www.google.com/maps/place/%E8%86%B3%E5%93%81%E9%A6%99%E9%85%A5%E6%8E%92%E9%AA%A8/@22.983003,120.2166889,17z/data=!3m1!4b1!4m6!3m5!1s0x346e769b76e4e805:0xbcdca7352545fdc1!8m2!3d22.983003!4d120.2192638!16s%2Fg%2F11f3x9028r?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D","Message: 
+Stacktrace:
+#0 0x5a714b202c4a <unknown>
+#1 0x5a714aca86e0 <unknown>
+#2 0x5a714acfa117 <unknown>
+#3 0x5a714acfa311 <unknown>
+#4 0x5a714ad48ec4 <unknown>
+#5 0x5a714ad1fe5d <unknown>
+#6 0x5a714ad462cc <unknown>
+#7 0x5a714ad1fc03 <unknown>
+#8 0x5a714acec47b <unknown>
+#9 0x5a714aced0e1 <unknown>
+#10 0x5a714b1c73fb <unknown>
+#11 0x5a714b1cb32f <unknown>
+#12 0x5a714b1aef39 <unknown>
+#13 0x5a714b1cbec8 <unknown>
+#14 0x5a714b19368f <unknown>
+#15 0x5a714b1f02b8 <unknown>
+#16 0x5a714b1f0496 <unknown>
+#17 0x5a714b201b26 <unknown>
+#18 0x7035969c51c4 <unknown>
+"
+冰沙 Smoothie,https://www.google.com.tw/maps/place/%E5%86%B0%E6%B2%99+Smoothie/data=!4m7!3m6!1s0x3442af2dab78d84d:0x878ed4a7518312c2!8m2!3d25.0881583!4d121.5263538!16s%2Fg%2F11gtzh4gk5!19sChIJTdh4qy2vQjQRwhKDUafUjoc?authuser=0&hl=zh-TW&rclk=1,"Message: 
+Stacktrace:
+#0 0x5efadb3d7c4a <unknown>
+#1 0x5efadae7d6e0 <unknown>
+#2 0x5efadaecf117 <unknown>
+#3 0x5efadaecf311 <unknown>
+#4 0x5efadaf1dec4 <unknown>
+#5 0x5efadaef4e5d <unknown>
+#6 0x5efadaf1b2cc <unknown>
+#7 0x5efadaef4c03 <unknown>
+#8 0x5efadaec147b <unknown>
+#9 0x5efadaec20e1 <unknown>
+#10 0x5efadb39c3fb <unknown>
+#11 0x5efadb3a032f <unknown>
+#12 0x5efadb383f39 <unknown>
+#13 0x5efadb3a0ec8 <unknown>
+#14 0x5efadb36868f <unknown>
+#15 0x5efadb3c52b8 <unknown>
+#16 0x5efadb3c5496 <unknown>
+#17 0x5efadb3d6b26 <unknown>
+#18 0x72ea9031a1c4 <unknown>
+"
+如如新鮮果汁,https://maps.app.goo.gl/r9Y1NWhNutQGD6kZ9,"Message: 
+Stacktrace:
+#0 0x589e20d06c4a <unknown>
+#1 0x589e207ac6e0 <unknown>
+#2 0x589e207fe117 <unknown>
+#3 0x589e207fe311 <unknown>
+#4 0x589e2084cec4 <unknown>
+#5 0x589e20823e5d <unknown>
+#6 0x589e2084a2cc <unknown>
+#7 0x589e20823c03 <unknown>
+#8 0x589e207f047b <unknown>
+#9 0x589e207f10e1 <unknown>
+#10 0x589e20ccb3fb <unknown>
+#11 0x589e20ccf32f <unknown>
+#12 0x589e20cb2f39 <unknown>
+#13 0x589e20ccfec8 <unknown>
+#14 0x589e20c9768f <unknown>
+#15 0x589e20cf42b8 <unknown>
+#16 0x589e20cf4496 <unknown>
+#17 0x589e20d05b26 <unknown>
+#18 0x7fe50e1711c4 <unknown>
+"
+良心水果攤,https://maps.app.goo.gl/4SrfBwxZYEvCYerU6,"Message: 
+Stacktrace:
+#0 0x580c46272c4a <unknown>
+#1 0x580c45d186e0 <unknown>
+#2 0x580c45d6a117 <unknown>
+#3 0x580c45d6a311 <unknown>
+#4 0x580c45db8ec4 <unknown>
+#5 0x580c45d8fe5d <unknown>
+#6 0x580c45db62cc <unknown>
+#7 0x580c45d8fc03 <unknown>
+#8 0x580c45d5c47b <unknown>
+#9 0x580c45d5d0e1 <unknown>
+#10 0x580c462373fb <unknown>
+#11 0x580c4623b32f <unknown>
+#12 0x580c4621ef39 <unknown>
+#13 0x580c4623bec8 <unknown>
+#14 0x580c4620368f <unknown>
+#15 0x580c462602b8 <unknown>
+#16 0x580c46260496 <unknown>
+#17 0x580c46271b26 <unknown>
+#18 0x783accbbe1c4 <unknown>
+"
